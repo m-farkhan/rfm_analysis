@@ -1,7 +1,7 @@
 # RFM Customer Segmentation & Retention Strategy 
 
 ## Project Overview
-Proyek ini mentransformasi **540.000+ data transaksi** ritel online Inggris menjadi strategi retensi yang presisi menggunakan metode **RFM Analysis** (Recency, Frequency, Monetary). Dengan memanfaatkan Python, MySQL, dan Tableau, analisis ini memetakan perilaku konsumen untuk mencegah kehilangan pendapatan akibat *customer churn*.
+Proyek ini mentransformasi **540.000+ data transaksi** ritel online Inggris menjadi strategi loyalitas yang efektif dan retensi yang presisi menggunakan metode **RFM Analysis** (Recency, Frequency, Monetary). Dengan memanfaatkan Python, MySQL, dan Tableau, analisis ini memetakan perilaku konsumen untuk mempertahankan high value customer dan mencegah kehilangan pendapatan akibat *customer churn*.
 
 ## Business Problem
 Sebagai bisnis *online retail* dengan basis pelanggan yang besar di UK, memahami perilaku setiap individu merupakan tantangan utama. Pendekatan pemasaran yang general menyebabkan inefisiensi biaya. Analisis ini bertujuan untuk memastikan tercapainya:
