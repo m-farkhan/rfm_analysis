@@ -55,8 +55,8 @@ Sebagai bisnis *online retail* dengan basis pelanggan yang besar di UK, memahami
 ---
 
 ## Repository Structure
-* **rfm_analysis.ipynb:** Notebook Python yang berisi proses data cleaning, EDA, dan logika segmentasi RFM berbasis quantile.
+* **datacleaning_eda_rfmsegmentation.ipynb:** Notebook Python yang berisi proses data cleaning, EDA, dan logika segmentasi RFM berbasis quantile.
 * **data_preparation.sql:** Script SQL untuk ekstraksi data awal dan validasi integritas transaksi.
-* **RFM Analysis.pdf:** Slide presentasi eksekutif yang merangkum metodologi, temuan bisnis (insights), dan rekomendasi strategis.
+* **rfm_presentation.pdf:** Slide presentasi eksekutif yang merangkum metodologi, temuan bisnis (insights), dan rekomendasi strategis.
 * **dashboard_rfm.png:** Tampilan pratinjau (preview) dari dashboard interaktif Tableau.
 * **online_retail_dataset.zip:** Dataset mentah transaksi ritel online yang digunakan dalam analisis.
