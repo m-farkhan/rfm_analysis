@@ -50,7 +50,7 @@ Sebagai bisnis *online retail* dengan basis pelanggan yang besar di UK, memahami
 
 ## Dashboard Preview
 ![Dashboard Analysis](dashboard_rfm.png)
-[**Lihat Dashboard Interaktif di Tableau Public**](https://public.tableau.com/views/RFMAnalysis-UKOnlineRetail/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[**Lihat Dashboard Interaktif di Tableau Public**](https://public.tableau.com/views/RFMAnalysis-UKOnlineRetail/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) PS: Klik bar untuk interaktif atau dinamis dashboard.
 
 ---
 
